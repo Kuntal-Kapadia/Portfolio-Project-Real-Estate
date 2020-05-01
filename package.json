@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-project-real-estate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuntal-Kapadia/Portfolio-Project-Real-Estate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuntal-Kapadia/Portfolio-Project-Real-Estate/issues"
+  },
+  "homepage": "https://github.com/Kuntal-Kapadia/Portfolio-Project-Real-Estate#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
